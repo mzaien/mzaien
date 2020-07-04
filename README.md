@@ -1,7 +1,5 @@
 # Hello There ✌🏻🎨 السلام عليكم    
 
----
-
 **So how am i** ... I study SWE or Software Engineering At **@KFUPM** Saudi Arabia And Train with BYTECODE 
 
 ## what i love and do in technology :
