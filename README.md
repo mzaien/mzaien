@@ -4,6 +4,8 @@
 
 **So how am i** ... I study SWE or Software Engineering At **@KFUPM** Saudi Arabia And Train with BYTECODE 
 
+</div>
+
 ## what i do in technology and design :
 - React 
 - Swift 
@@ -20,4 +22,4 @@
 ## See more about me
 - [Twitter](https://twitter.com/Abdullah_Mzaien)
 - [Presonal Site](https://Mzaien.Design)
-</div>
+
