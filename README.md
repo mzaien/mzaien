@@ -11,9 +11,9 @@
 - Swift 
 - UX Design 
 - Logo Design
-- **and of course Software Engineering** 😝
+- **And Software Engineering for sure** 😝
 
-## My Learning Wish-list :
+## My Learning Goals :
 1.  Next.js 
 2.  Swift Ui 
 3.  Graphql 
