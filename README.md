@@ -17,7 +17,8 @@
 1.  Next.js 
 2.  Swift Ui 
 3.  Graphql 
-3.  Tailwinscss 
+4.  Chakra UI
+5.  TailwindCss
 
 ## See more about me
 - [Twitter](https://twitter.com/Abdullah_Mzaien)
