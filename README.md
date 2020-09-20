@@ -2,7 +2,7 @@
   
 # Hello There  :octocat:  🎨  السلام عليكم    
 
-**So how am i** ... I study SWE or Software Engineering At **@KFUPM** Saudi Arabia,Work with **@axenda**
+**So how am i** I'm a Software Engineering student At **@KFUPM** Saudi Arabia, Also i work with **@axenda**
 
 </div>
 
