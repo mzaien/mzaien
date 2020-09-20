@@ -2,12 +2,13 @@
   
 # Hello There  :octocat:  🎨  السلام عليكم    
 
-**So how am i** ... I study SWE or Software Engineering At **@KFUPM** Saudi Arabia And Train with BYTECODE 
+**So how am i** ... I study SWE or Software Engineering At **@KFUPM** Saudi Arabia,Work with **@axenda**
 
 </div>
 
-## what i do in technology and design :
+## What tech/design i do:
 - React 
+- Next.js
 - Swift 
 - UX Design 
 - Logo Design
@@ -22,5 +23,5 @@
 
 ## See more about me
 - [Twitter](https://twitter.com/Abdullah_Mzaien)
-- [Presonal Site](https://Mzaien.Design)
+- [Presonal Site](https://dal.Design)
 
