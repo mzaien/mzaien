@@ -2,9 +2,9 @@
   
 # Hello There  :octocat:  🎨  السلام عليكم    
 
-A Software Engineering student At **@KFUPM** Saudi Arabia, Working with @[**Axenda**](https://github.com/axenda)
+A Software Engineering student At **KFUPM** Saudi Arabia, Working with @[**Axenda**](https://github.com/axenda)
 
-</div>
+
 
 ## What tech/design i do:
 - React 
@@ -25,3 +25,4 @@ A Software Engineering student At **@KFUPM** Saudi Arabia, Working with @[**Axen
 - [Twitter](https://twitter.com/Abdullah_Mzaien)
 - [Presonal Site](https://dal.Design)
 
+</div>
