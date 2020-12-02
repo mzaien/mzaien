@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hello There  :octocat:  🎨  السلام عليكم    
+# Hello There  :octocat:   السلام عليكم    
 
 A Software Engineering student At **KFUPM** Saudi Arabia, Working with @[**Axenda**](https://github.com/axenda)
 
