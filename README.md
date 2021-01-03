@@ -7,19 +7,19 @@ A Software Engineering student At **KFUPM** Saudi Arabia, Working with @[**Axend
 </div>
 
 ## Tech || Design known and used:
-- React 
-- Next.js
-- Strapi cms 
-- UX Design 
-- Logo Design
-- **And Software Engineering for sure** 😝
+- ⚛️ React 
+- ⚛️ 🚀 Next.js
+- 💿 Strapi cms 
+- 👨‍🎨 UX Design 
+- 🖼 Logo Design
+- 💻 **And Software Engineering for sure** 😝
 
 ## My Learning list :
--  Next.js 
--  Node.js 
--  TailwindCss
--  Framer Motion
--  Graphql 
+-  ⚛️ 🚀 Next.js
+-  ❇️ Node.js 
+-  🖌 TailwindCss
+-  🌓 Framer Motion
+-  🟣 Graphql 
 
 <hr>
 <p align="center">
