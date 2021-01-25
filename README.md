@@ -15,6 +15,7 @@ A Software Engineering student At **KFUPM** Saudi Arabia, Working with @[**Axend
 - 💻 **And Software Engineering for sure** 😝
 
 ## My Learning list :
+-  🛡 Typescript
 -  ⚛️ 🚀 Next.js
 -  ❇️ Node.js 
 -  🖌 TailwindCss
