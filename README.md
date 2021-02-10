@@ -24,6 +24,7 @@ A Software Engineering student At **KFUPM** Saudi Arabia, Working with @[**Axend
 ## My Learning list :
 -  🆃 Typescript
 -  🅑 Blitz.js
+-  🅟 Preact
 -  ❇️ Node.js 
 -  🖌 TailwindCss
 -  🌓 Framer Motion
