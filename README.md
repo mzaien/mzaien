@@ -6,17 +6,24 @@ A Software Engineering student At **KFUPM** Saudi Arabia, Working with @[**Axend
 
 </div>
 
-## Tech || Design known and used:
+## Tech || Design i use:
 - ⚛️ React 
-- ⚛️ 🚀 Next.js
+- 🅽 Next.js
+- 🆂 Swift
+- 🔥 Firebase
 - 💿 Strapi cms 
-- 👨‍🎨 UX Design 
-- 🖼 Logo Design
-- 💻 **And Software Engineering for sure** 😝
+- 🖼 Figma
+- 🖼 Sketch
+
+## Programming Lanuages 
+- 🅹 Javascript
+- 🆃 Typescript
+- 🆂 Swift
+- 🅲 Css 😜
 
 ## My Learning list :
--  🛡 Typescript
--  ⚛️ 🚀 Next.js
+-  🆃 Typescript
+-  🅑 Blitz.js
 -  ❇️ Node.js 
 -  🖌 TailwindCss
 -  🌓 Framer Motion
@@ -34,7 +41,7 @@ A Software Engineering student At **KFUPM** Saudi Arabia, Working with @[**Axend
 
   <p align="center">  
     <br>
-    <img alt="Abdullah's github stats" src="https://github-readme-stats.alioh.vercel.app/api?username=mzaien&show_icons=true&hide_border=true" />
+    <img alt="Abdullah's github stats" src="https://github-readme-stats.alioh.vercel.app/api?username=mzaien&show_icons=true&hide_border=false" />
     <br>
     <img alt="Abdullah's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzaien" />
   </p>
