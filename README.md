@@ -44,7 +44,7 @@ A Software Engineering student At **KFUPM** Saudi Arabia, Working with @[**Axend
 
 <b>⚡ My GitHub Statistics</b>
 
-<p>
+<p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mzaien&show_icons=true&hide_border=true&theme=vue-dark" />
 
 <!-- Most Used Languages -->
