@@ -9,23 +9,23 @@ A Software Engineering student At **KFUPM** Saudi Arabia, Working with @[**Axend
 ## Tech || Design i use:
 - ⚛️ React 
 - 🅽 Next.js
-- 🆂 Swift
+- <img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png"/> Swift
 - 🔥 Firebase
 - 💿 Strapi cms 
 - 🖼 Figma
 - 🖼 Sketch
 
 ## Programming Lanuages 
-- 🅹 Javascript
-- 🆃 Typescript
-- 🆂 Swift
-- 🅲 Css 😜
+- <img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png"/> Javascript
+- <img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png"/> Typescript
+- <img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png"/> Swift
+- Css 😜
 
 ## My Learning list :
--  🆃 Typescript
+-  <img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png"/> Typescript
 -  🅑 Blitz.js
 -  🅟 Preact
--  ❇️ Node.js 
+- <img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"/> Node.js 
 -  🖌 TailwindCss
 -  🌓 Framer Motion
 -  🟣 Graphql 
