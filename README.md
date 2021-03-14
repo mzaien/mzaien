@@ -19,7 +19,7 @@ A Software Engineering student At **KFUPM** Saudi Arabia, Working with @[**Axend
 - <img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png"/> Javascript
 - <img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png"/> Typescript
 - <img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png"/> Swift
-- Css 😜
+- <img height="20px" width="20px" src="https://www.flaticon.com/svg/vstatic/svg/888/888847.svg?token=exp=1615721742~hmac=400c9d4fe30946cdb713d9c0dd95a7f9" />Css
 
 ## My Learning list :
 -  <img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png"/> Typescript
