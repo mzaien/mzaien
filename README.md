@@ -9,6 +9,7 @@ A Software Engineering Working  @[**Resal**](https://github.com/resalApps)
 ## Tech || Design i use:
 - <img height="20px" width="20px" src="Assesstes/react-2.svg"/>  React 
 - <img height="20px" width="20px" src="Assesstes/nextjs-3.svg"/> Next.js
+-  <img height="20px" width="20px" src="Assesstes/tailwindcss.svg"/> TailwindCss
 - <img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png"/> Swift
 - <img height="20px" width="20px" src="Assesstes/firebase.svg"/>  Firebase
 - <img height="20px" width="20px" src="Assesstes/strapi.svg"/>  Strapi cms
@@ -24,9 +25,9 @@ A Software Engineering Working  @[**Resal**](https://github.com/resalApps)
 ## My Learning list :
 -  <img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png"/> Typescript
 -  <img height="20px" width="20px" src="Assesstes/blitz.png"/>  Blitz.js
--  <img height="20px" width="20px" src="Assesstes/preact.svg"/> Preact
+-  <img height="20px" width="20px" src="Assesstes/solidjs-32x32.png"/> Solid.js
+-  <img height="20px" width="20px" src="Assesstes/astro.svg"/> Astro
 -  <img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"/> Node.js 
--  <img height="20px" width="20px" src="Assesstes/tailwindcss.svg"/> TailwindCss
 -  <img height="20px" width="20px" src="Assesstes/Framer.svg"/> Framer Motion
 -  <img height="20px" width="20px" src="Assesstes/graphql.svg"/> Graphql 
 
