@@ -28,7 +28,7 @@ A Software Engineering Working  @[**Resal**](https://github.com/resalApps)
   <p align="center">
     <a href="https://www.linkedin.com/in/mzaien/" alt="Linkedin"><img src="https://raw.githubusercontent.com/alioh/alioh/master/linkedin-box-fill.png"></a>
     <a href="https://twitter.com/Abdullah_mzaien" alt="Twitter"><img src="https://raw.githubusercontent.com/alioh/alioh/master/twitter-fill.png"></a>
-    <a href="https://www.dal.design/" alt="My site"><img src="https://raw.githubusercontent.com/alioh/alioh/master/links-fill.png"></a>
+    <a href="https://typedream.app/mzaien/" alt="My site"><img src="https://raw.githubusercontent.com/alioh/alioh/master/links-fill.png"></a>
   </p>
 
 <!-- GitHub stats -->
