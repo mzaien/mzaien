@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hello There  :octocat:   السلام عليكم    
+# Hello there  :octocat:   السلام عليكم    
 
 A Software Engineering Working  @[**Resal**](https://github.com/resalApps)
 
