@@ -1,27 +1,21 @@
 <div align="center">
   
-# Hello there  :octocat:   السلام عليكم    
+# Salam :octocat:   
 
-A Software Engineering Working  @[**Resal**](https://github.com/resalApps)
+Software Engineer @[**Resal**](https://github.com/resalApps)
 
 </div>
 
-## Tech || Design i use:
-- <img height="20px" width="20px" src="Assesstes/react-2.svg"/>  React 
-- <img height="20px" width="20px" src="Assesstes/nextjs-3.svg"/> Next.js
--  <img height="20px" width="20px" src="Assesstes/tailwindcss.svg"/> TailwindCss
-- <img height="20px" width="20px" src="Assesstes/figma.svg"/>  Figma
-- <img height="20px" width="20px" src="Assesstes/sketch.svg"/> Sketch
+<div>
+  <h2>Currently playing around with </h2>
+  <ul> 
+    <li>Remix 💿</li>
+    <li>Solid.js 🚀</li>
+    <li>Stitches/Radix 👨‍🎨</li>
+    <li>Cloudflare ⚡️ </li>
+   </ul> 
+</div>  
 
-## Programming Lanuages 
-- <img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png"/> Javascript
-- <img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png"/> Typescript
-- <img height="20px" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png"/> Swift
-- <img height="20px" width="20px" src="https://unpkg.com/simple-icons@4.21.0/icons/css3.svg" /> Css
-
-
-
-<hr>
 <p align="center">
   <i>Let's connect and chat!</i>
 
