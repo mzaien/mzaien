@@ -1,6 +1,6 @@
 <div align="center">
   
-# Salam :octocat:   
+# Salam 👋
 
 Software Engineer @[**Resal**](https://github.com/resalApps)
 
@@ -21,7 +21,7 @@ Software Engineer @[**Resal**](https://github.com/resalApps)
 
   <p align="center">
     <a href="https://www.linkedin.com/in/mzaien/" alt="Linkedin"><img src="https://raw.githubusercontent.com/alioh/alioh/master/linkedin-box-fill.png"></a>
-    <a href="https://twitter.com/Abdullah_mzaien" alt="Twitter"><img src="https://raw.githubusercontent.com/alioh/alioh/master/twitter-fill.png"></a>
+    <a href="https://twitter.com/mzaien_" alt="Twitter"><img src="https://raw.githubusercontent.com/alioh/alioh/master/twitter-fill.png"></a>
     <a href="https://typedream.app/mzaien/" alt="My site"><img src="https://raw.githubusercontent.com/alioh/alioh/master/links-fill.png"></a>
   </p>
 
