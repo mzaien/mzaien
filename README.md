@@ -9,10 +9,8 @@ Software Engineer @[**Resal**](https://github.com/resalApps)
 <div>
   <h2>Currently playing around with </h2>
   <ul> 
-    <li>Remix 💿</li>
     <li>Solid.js 🚀</li>
-    <li>Stitches/Radix 👨‍🎨</li>
-    <li>Cloudflare ⚡️ </li>
+    <li>Phaser.js 👾 </li>
    </ul> 
 </div>  
 
