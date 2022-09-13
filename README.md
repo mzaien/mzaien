@@ -6,13 +6,6 @@ Software Engineer @[**Resal**](https://github.com/resalApps)
 
 </div>
 
-<div>
-  <h2>Currently playing around with </h2>
-  <ul> 
-    <li>Solid.js 🚀</li>
-    <li>Phaser.js 👾 </li>
-   </ul> 
-</div>  
 
 <p align="center">
   <i>Let's connect and chat!</i>
