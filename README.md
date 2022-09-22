@@ -4,7 +4,7 @@
 
 Software Engineer @[**Resal**](https://github.com/resalApps)
 
-More about me -> Npx mzaien 
+More about me -> `npx mzaien`
 </div>
 
 
