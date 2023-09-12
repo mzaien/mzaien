@@ -2,7 +2,7 @@
   
 # Salam 👋
 
-Software Engineer @[**Resal**](https://github.com/resalApps)
+Software Engineer @[**Malaa**](https://https://github.com/malaa-tech)
 
 More about me -> `npx mzaien`
 </div>
